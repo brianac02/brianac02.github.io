@@ -4,13 +4,11 @@
 
 This site is a culmination of the progress through the Computer Science course at Southern New Hampshire University. It is a display of the various forms of programming I have learned, my level of mastery, and my ability to take a working project and improve upon it. \
 
-## Professional Self-Assessment
-
 ## Video Code Review
 
 [Video Code Review](https://youtu.be/Xa2M37BNNJ4)
 
-## Artifact One: Python-based DQN Project, CS350
+## Artifact One: Algorithms and Data Structures - Python-based DQN Project, CS350
 
 [View Artifact One](https://github.com/brianac02/SNHU-CS350)
 
@@ -26,7 +24,7 @@ One of the biggest challenges I faced was improving the artifact without overcom
 
 Overall, the artifact was improved in several meaningful ways. It became more modular, easier to configure, more resilient to invalid input, and more accessible to users through clearer output and a more polished interface. In terms of course outcomes, I believe this artifact most strongly demonstrates my ability to design and evaluate computing solutions using appropriate computer science practices, as well as my ability to apply well-founded and innovative tools to implement solutions that deliver value. I also believe it supports the outcome focused on developing a security mindset, particularly through the use of validation, safeguards, and defensive programming practices that reduce the likelihood of misuse or failure. In addition, the written and visual improvements made to the project support the communication outcome by showing that I can present technical work in a more professional and understandable way. The collaborative-environment outcome was addressed less directly in this particular artifact, since this project was primarily an individual technical implementation rather than one centered on team-based decision making. However, the effort to make the artifact clearer, more organized, and more adaptable for users does still reflect an awareness of designing technical work for broader audiences.
 
-## Artifact Two: C++ OpenGL Applicaiton, CS330
+## Artifact Two: Software Design and Engineering - C++ OpenGL Application, CS330
 
 [View Artifact Two](https://github.com/brianac02/SNHU-CS330)
 
@@ -40,7 +38,7 @@ A major challenge during the enhancement process was making structural improveme
 
 The artifact was significantly improved through these enhancements. The rendering logic is now more modular, the configuration of scene objects is clearer, the camera and callback behavior are better encapsulated, and the project handles several types of failures more safely than before. In terms of course outcomes, this artifact most strongly supports designing and evaluating computing solutions, using well-founded techniques and tools to implement computer solutions, and developing a security-minded and defensive approach to software design. It also partially supports the communication outcome through the way I documented, analyzed, and justified the enhancement process in my ePortfolio. The outcome I feel is least directly represented in the artifact itself is the one related to building collaborative environments for diverse audiences, since this was primarily an individual technical project. Even so, presenting the artifact in a professional ePortfolio and explaining the reasoning behind the enhancements helps connect it to that broader outcome as well.
 
-## Artifact Three: Java-based Weight Tracker App for Android, CS360
+## Artifact Three: Databases - Java-based Weight Tracker App for Android, CS360
 
 [View Artifact Three](https://github.com/brianac02/SNHU-CS360)
 
