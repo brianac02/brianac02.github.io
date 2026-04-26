@@ -8,7 +8,7 @@ This site is a culmination of the progress through the Computer Science course a
 
 ## Video Code Review
 
-[Video Code Review](
+[Video Code Review](https://youtu.be/Xa2M37BNNJ4)
 
 ## Artifact One: Python-based DQN Project, CS350
 
@@ -28,7 +28,7 @@ Overall, the artifact was improved in several meaningful ways. It became more mo
 
 ## Artifact Two: C++ OpenGL Applicaiton, CS330
 
-[View Artifact Two]()
+[View Artifact Two](https://github.com/brianac02/SNHU-CS330)
 
 This artifact was originally created as the final project for my CS330: Computational Graphics and Visualization course, which I completed in Fall 2025. The project is a C++ OpenGL application that renders a 3D nature scene using textured objects, lighting, and user-controlled camera movement. The program is structured around a main file along with supporting SceneManager and ViewManager classes. SceneManager is responsible for preparing and rendering the objects in the scene, while ViewManager handles the camera, projection, and user input. I chose this artifact for my ePortfolio because it demonstrates both technical depth and growth in my software development skills. It shows that I can work with graphics programming, object-oriented design, user interaction, and rendering logic in a more advanced environment than a basic console application.
 
@@ -41,6 +41,8 @@ A major challenge during the enhancement process was making structural improveme
 The artifact was significantly improved through these enhancements. The rendering logic is now more modular, the configuration of scene objects is clearer, the camera and callback behavior are better encapsulated, and the project handles several types of failures more safely than before. In terms of course outcomes, this artifact most strongly supports designing and evaluating computing solutions, using well-founded techniques and tools to implement computer solutions, and developing a security-minded and defensive approach to software design. It also partially supports the communication outcome through the way I documented, analyzed, and justified the enhancement process in my ePortfolio. The outcome I feel is least directly represented in the artifact itself is the one related to building collaborative environments for diverse audiences, since this was primarily an individual technical project. Even so, presenting the artifact in a professional ePortfolio and explaining the reasoning behind the enhancements helps connect it to that broader outcome as well.
 
 ## Artifact Three: Java-based Weight Tracker App for Android, CS360
+
+[View Artifact Three](https://github.com/brianac02/SNHU-CS360)
 
 This third artifact is a mobile Weight Tracker application originally created as the final project for CS 360, Mobile Architect and Programming, which I completed from January to March of 2026. The application was designed to allow users to create an account, log in, set a target weight, record daily weight entries, and review past progress through a clean mobile interface. The project uses an Android-based architecture with a local database to store user information, goal weights, and daily weight entries. At its core, the application was intended to provide a simple and practical tool for tracking weight-loss progress while also demonstrating foundational mobile development skills such as user interface design, data storage, input handling, and user interaction.
 
