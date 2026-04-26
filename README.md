@@ -2,7 +2,7 @@
 
 # Brian Carman ePortfolio
 
-This site is a culmination of the progress through the Computer Science course at Southern New Hampshire University. It is a display of the various forms of programming I have learned, my level of mastery, and my ability to take a working project and improve upon it. \
+This site is a culmination of the progress through the Computer Science course at Southern New Hampshire University. It is a display of the various forms of programming I have learned, my level of mastery, and my ability to take a working project and improve upon it.
 
 ## Video Code Review
 
